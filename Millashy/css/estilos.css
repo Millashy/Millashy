@@ -1,0 +1,345 @@
+ *{
+        margin: 0;
+        padding:0;
+ }
+ body{
+    flex-direction: column;
+    font-size: 2.8rem;
+}
+ body h2{
+font-size: 1.9rem;
+ }
+   /*TODO EL HEADER*/
+.cabecera{
+    background-color: black; 
+    padding: 0.9rem;
+}
+.cabeza{  
+justify-content: space-between;
+display: flex;
+flex-wrap: wrap;
+}
+.cabeza h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2.5rem;
+   color: white;
+   padding: 1rem;
+}
+.cabecera-menu{
+justify-content: space-between;
+padding: 0.4cm;
+font-size: 0.2rem;
+margin-right: 3rem;
+}
+.cabecera-menu li{
+    color: black; 
+    display:inline-block; 
+    list-style: none;
+   margin: 1rem;     
+}
+.cabecera-menu li a{
+    text-decoration: black;
+    color: rgb(14, 7, 7);
+    font-size: 23px;
+    background-color: rgb(248, 225, 225);
+    padding: 15px;
+    border-radius: 22px;
+}
+.cabecera-menu li a:hover{
+background-color: rgb(155, 151, 144);
+}
+.menu-boton:hover{
+    background-color: rgb(114, 117, 106);  
+}
+/* serpiente y letra*/
+#gameover img{
+    width: 100%;  
+}
+.letra{ 
+  display: block;
+}
+.letra p{
+    color: white;
+    font-size: 1.7rem;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.letra h6{
+    font-size: 2rem;
+    text-align: center;
+    color: #000;
+}
+/*primer contenedor*/
+.container{
+    text-align: center;  
+   background-color: rgb(0, 0, 0);
+   color: white;
+   margin: 0.2cm;
+   flex-direction: column;
+}
+.container h6{
+    font-size: 1.3cm;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255); 
+    padding: 15px;
+}
+.container ol{
+    color: rgb(241, 25, 25);
+    font-size: 1cm;
+    margin: 15px;
+    text-align: center;
+    font-family: fantasy;
+}
+#opt7 p{
+    font-size: 60%;
+    margin: 1rem;
+}
+#opt7 img{
+    margin: 1rem;
+   height: 20%;
+    width: 60%;
+}
+#section h4{
+    font-size: 100%;
+    margin: 15px;
+    color: rgb(173, 60, 60);
+}
+#wolteam{
+    margin: 1cm;    
+    padding: 10px;
+    justify-content: center;
+}
+#wolteam img{
+    width: 40%;
+}
+#wolteam p {
+font-size: 60%;
+}
+#modos{
+  display: flex;
+  align-items: center;
+  font-size: 75%;   
+}
+#modos p{
+    font-size: 60%;
+}
+#modos img{
+margin-left: 0.9rem;
+width: 20%;
+border-radius: 3%;
+}
+#OP7IMG{
+    margin: 0.9rem;  
+}
+.container picture p{
+    margin: 1cm;
+}
+#counter p{
+    font-size: 60%;
+}
+#counter img{
+    width: 50%;
+}
+/* PRIMER CONTENEDOR*/
+________________________________________________________________________________________*/
+#mov-fantasia{
+    font-size: 80%;
+    background-color: #fff;
+    color: #000;
+}
+.mill {
+    background-position: center;
+    margin: 0.2cm;
+    padding: 1cm;
+    color: white;    
+}
+.mill h6{
+    text-align: center;
+    margin: 15px;
+    font-size: 60%;
+    color: white;
+}
+#top{
+    font-size: 70%;
+}
+#top1{
+    font-size: 60%;
+    margin: 0.9rem;
+}
+.mill nav img{
+    margin: 0.9rem;
+    border-radius: 4px ;
+} 
+.mill ol {   
+    font-family: fantasy;
+    text-align: center;
+    margin: 15px;
+    font-size: 1cm;
+}
+.mill p {
+        text-align: left;
+        margin: 10px;
+       
+}
+.Microwars{
+    text-align: center;
+}
+#micro video {
+    width: 40%;
+    margin: 0.5rem;
+    border-radius: 1rem;
+}  
+#micro p{
+    margin: 2rem;
+    font-size: 80%;
+}
+.Microwars picture{
+   display: flex;
+   font-size: 65%;
+}
+.Microwars nav{
+    font-size: 70%;
+}
+.players img {
+    align-items: center;
+    margin: 10px;
+    width: 20%;   
+}
+.players p{
+    font-size: 80%;
+}
+/*__________________________*/
+/* LOSTSAGA*/
+.Lostsaga{
+padding: 10px;
+margin: 10px;
+}
+.Lostsaga video{
+    margin:10px;
+    align-items: center;
+}
+.mill #txtLost{
+    font-size: 60%;
+}
+.PJ1 {  
+   align-items: center;
+   display: flex;
+}
+.PJ1 video{
+width: 40%;
+}
+.PJ1 p{
+    font-size: 60%;
+}
+.PJ2{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+.PJ2 video {
+    width: 40%;
+    display: flex;
+}
+.PJ2 p{
+    font-size: 60%;
+}
+/*__________________________*/
+/* ______PRIMEROS PUESTOS____*/
+/*_______MICROWARS____*/
+#actualidad{
+    font-size: 80%;
+    background-color: white;
+    color: #000;
+}
+.info{
+background-color: black;
+font-size: 100%;
+}
+.info video{
+    width:80% ;
+}
+.info picture p{
+    font-size: 70%;
+}
+.SevencoreTOP h5{ 
+    color: white;
+    margin: 1cm;
+    margin: 3rem;
+    font-size: 100%;
+}
+.SevencoreTOP{
+font-size: 100%;
+}
+.TOP1{
+    padding: 0.8rem;
+    color: white;
+    font-size: 70%;
+    margin: 0.5rem;
+}
+.TOP1 picture{
+    color: white;
+    display: flex;
+    align-items: center;
+    font-size: 100%;
+}
+.TOP1 picture p{
+    margin: 2rem;   
+}
+.TOP1 picture video{
+    margin: 1rem;
+    width: 50%;
+}
+h4{
+    color: rgb(252, 4, 4);
+    text-align: center;
+    font-size: 1cm;
+}
+/*DISEÑO PARA TODOS LOS OL*/
+ol{
+    color: rgb(53, 53, 212);
+    font-family: fantasy;
+    margin: 5px;  
+}
+/*sevencore*/
+.SevencoreTOP{
+    margin: 10px;
+    padding: 10px;
+}
+.SevencoreTOP h5{
+    font-size: 60%;
+}
+.SevencoreTOP h4{
+    font-size: 100%;
+}
+.SevencoreTOP p{
+    font-size: 60%;
+}
+.SevencoreTOP video{
+    width: 40%;
+    display: flex;
+}
+.SevencoreTOP picture{
+display: flex;
+align-items: center;
+}
+.SevencoreTOP p{
+    color: white;
+    padding:2%;
+}
+.SevencoreTOP picture p{
+    font-size: 60%;
+}
+/*__________________________*/
+/*_FOOTER*/
+footer{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 0.5%;   
+}
+footer p{   
+    font-size: 80%;
+}
+
+    
+
+
+    

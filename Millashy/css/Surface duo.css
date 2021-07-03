@@ -1,0 +1,60 @@
+@media  (max-width: 540px){
+   
+    .cabecera h1{
+    font-size: 4rem;
+    }
+    .cabecera-menu li a{
+    font-size: 2rem;
+    margin: 5rem;
+    }
+    .players{
+        font-size: 100%;
+       
+    }
+    .Microwars .players {
+        font-size: 50%;
+    }
+    .Microwars .players img {
+        width: 85%;
+    }
+    __
+    #LSP {
+        font-size: 100%;
+        width: 100%;
+    }
+    .Lostsaga picture{
+        font-size: 90%;
+       
+        width: 100%;
+    } 
+    #LSP img{
+        width: 100%;
+        height: 200px;
+    }
+    __________letras de op7__________
+.container picture{
+ font-size: 100%;
+}
+#opt7 p{
+  font-size: 60%;
+}
+#opt7 img{
+ width: 100%;
+ }
+#section h4{
+font-size: 70%;   
+color: rgb(165, 59, 59);
+ }
+ __modos opt7____
+#modos{
+font-size: 100%;
+}
+#modos p {
+font-size: 75%;
+}
+#modos img{
+width: 60%;
+border-radius: 5px;
+border: 3px solid rgb(165, 59, 59);
+}
+}

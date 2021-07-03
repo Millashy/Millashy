@@ -1,0 +1,186 @@
+@media  (max-width: 280px){
+    .cabecera h1{
+    font-size: 2.2rem;
+    }
+    .cabecera-menu li a{
+    font-size: 1rem!important;
+    margin: 2rem!important;
+    }
+    _________________ 
+    .letra h6{
+        font-size: 0.7rem;
+        text-align: center;
+    }
+    .container h6{
+        font-size: 1.5rem;
+    }
+    .container ol{
+        font-size: 1.7rem;
+    }
+    __________letras de op7__________
+    .container picture{
+     font-size: 100%;
+    }
+    #opt7 p{
+      font-size: 38%;
+    }
+    #opt7 img{
+     width: 100%;
+     }
+    #section h4{
+    font-size: 40%;   
+    color: rgb(165, 59, 59);
+     }
+     __modos opt7____
+    #modos{
+    font-size: 100%;
+    }
+    #modos p {
+    font-size: 38%;
+    }
+    #modos img{
+    width: 60%;
+    border-radius: 5px;
+    border: 3px solid rgb(165, 59, 59);
+    }
+    ____wolfteam letra______
+    .container nav p {
+    font-size: 100%;    
+    }
+    #wolteam p{
+    font-size: 35%;
+    margin: 10px;
+    }
+    #wolteam img{
+    width: 100%;
+    border: 3px solid rgb(165, 59, 59);
+    }
+    ___counter___
+    #counter {
+    font-size: 100%;
+    }
+    #counter p{
+    font-size: 35%;
+    }
+    #counter img{
+    width: 100%;
+    }
+    _______top juegos de fantasia____
+    #mov-fantasia{
+    font-size: 100%;
+    }
+    #mov-fantasia p{
+        font-size: 70%;
+    }
+    ____sevencore____
+    .mill {
+        font-size: 100%;
+        width: 100%;
+    }
+    .mill ol{
+        font-size: 60%;
+    }
+    .mill #sc h6{
+        font-size: 30%;
+    }
+    #sc img{
+        width: 90%;
+        height: 100%;
+    }
+    __rakin sevencore__
+    #tops{
+        font-size: 100%;
+    }
+    #tops p{
+        font-size: 50%;
+    }
+    #top1{
+        font-size: 50%;
+    }
+    
+    __microwars___
+    .Microwars #micro video{
+        width:100%;
+    }
+    
+    #micro video{
+        width: 100%;
+    }
+    #micro p{
+        font-size: 45%;
+    }
+    __tops microwars__
+    .alin {
+    font-size: 100%;
+    }
+    .alin nav p{
+        font-size: 60%;
+    }
+    .players{
+        font-size: 100%;
+       
+    }
+    .Microwars .players {
+        font-size: 38%;
+    }
+    .Microwars .players img {
+        width: 85%;
+    }
+    __lostsaga___
+    #LSP {
+        font-size: 100%;
+        width: 100%;
+    }
+    .Lostsaga picture{
+        font-size: 43%;
+        width: 100%;
+    }
+    .Lostsaga picture video{
+        width: 100%;   
+    }
+    #LSP img{
+    width: 120%;
+    height: 180px;
+    }
+    ______tops1y2___
+    .info{
+        font-size: 100%;   
+    }
+    .TOP1{
+        font-size: 45%;
+    }
+    .TOP1 h5{
+        font-size: 55%;
+    }
+    .info video{
+        width: 110%;
+    }
+    .PJ1 p{
+        font-size: 60%;
+    }
+    .PJ2 p{
+        font-size: 60%;
+    }
+    ____sevencoretop__
+    .SevencoreTOP{
+        font-size: 100%;
+    }
+    .SevencoreTOP h5{ 
+        font-size: 38%;
+    }
+    .SevencoreTOP h4{ 
+        font-size: 70%;
+    }
+    .SevencoreTOP p{
+        font-size: 38%;
+    }
+    
+    .SevencoreTOP picture p{
+    font-size: 38%;
+    
+    }
+    .SevencoreTOP picture video{
+    width: 100%;
+    }
+          
+}

@@ -1,0 +1,147 @@
+@media  (max-width: 750px){
+ 
+_____ cabeza__
+body h2{
+    font-size: 1.5rem;
+    margin: 10px;
+}
+.letra h6{
+    font-size: 1.5rem;
+    text-align: center;
+    color: #000;
+}__op7__
+#opt7 p{
+    font-size: 70%;
+}
+#opt7 img{
+    height: 80%;
+    width: 60%;
+}
+
+#wolteam p{
+    font-size: 58%;
+}
+
+#wolteam img{
+width: 80%;
+}
+
+____microwars__
+#micro{
+    width: 70%; 
+}
+#micro video{
+    width: 40%;
+}
+
+
+.Microwars {
+    justify-content: center;
+   
+}
+.Microwars picture{
+   flex-direction: column;
+
+}
+#micro video{
+    margin: 4%;
+    width: 90%;
+}
+.Microwars picture img{
+    width: 90%;
+    margin: 4%;
+    
+}
+
+.Microwars picture p{
+
+font-size: 100%;
+    
+}
+
+
+#topju{
+    font-size: 3rem;
+    color: rgb(53, 53, 212);
+}
+
+.players img{
+border-radius: 10px;
+width: 30%;
+}
+.players p{
+    font-size: 1rem;
+}
+.mill ol{
+    font-size: 120%;
+}
+____Lostsaga__
+.Lostsaga picture{
+flex-direction: column;
+}
+#LSP p{
+font-size: 90%;
+} 
+#LSP img{
+    width: 80%;
+}
+__________
+
+.PJ1 p{
+    font-size: 58%;
+}
+
+.PJ1 video{
+width: 80%;
+margin: 4%;
+}
+
+.PJ1{
+    flex-direction: column;
+} 
+.PJ2{
+   flex-direction:column-reverse;
+}
+.PJ2 p{
+    font-size: 49%;
+}
+.PJ2 video{
+    width: 80%;
+    margin: 4%;  
+}
+____microwarsfinal___
+.info p {
+    font-size: 90%;
+}
+.info video{
+ width: 90%;
+ margin: 4%;
+}
+.info picture{
+    flex-direction:column;
+}
+.info picture video{
+    width: 90%;
+}
+.info h4{
+font-size: 100%;
+}
+___sevencore___
+
+
+___sevencore_final__
+
+.SevencoreTOP picture video{
+    width: 90%;
+}
+.SevencoreTOP picture p{
+    font-size: 48%;
+}
+.SevencoreTOP p{
+font-size: 45%;
+}
+.SevencoreTOP h5{
+    font-size: 50%;
+}
+
+}

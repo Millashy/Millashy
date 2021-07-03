@@ -1,0 +1,197 @@
+@media  (max-width: 1241px){
+   
+.cabeza{
+   padding: 0;
+   margin: 0;
+   justify-content: center;
+   
+}
+#gameover{
+    width: 100%;
+}
+
+
+#opt7 p{
+    font-size: 70%;
+}
+#opt7 img{
+    height: 80%;
+    width: 60%;
+}
+.container ol{
+font-size: 3rem;
+}
+.container picture{
+    font-size: 90%;
+}
+.container img {
+    width: 40%; 
+}
+
+#modos{
+
+    width: 100%;
+    flex-direction: column;
+    
+    
+    }
+    #modos img {
+    border-radius: 3px;
+      justify-content: center;
+        width: 40%;
+    }
+    #modos p {
+        font-size: 70%;
+        
+    }
+   
+   
+   _______wolfteam_counter_____
+   
+   #wolteam{
+       width: 100%;
+       padding: 0.2rem;
+       
+   } 
+   #wolteam p{
+       font-size: 60%;
+   }
+   #wolteam img{
+       width: 50%;
+   }
+  
+   
+   #counter p{
+       font-size: 60%;
+   }
+   #counter img{
+       width: 80%;
+   }
+_____________________
+ ___sevencore___
+ #sc{
+     width: 100%;
+ }
+#sc h6{
+    font-size: 60%;
+
+}
+#sc img{
+  
+    width: 60%;
+    margin: 15px;
+    border:  3px solid white ;
+}
+#top{
+    font-size: 2.5rem;
+    color: rgb(53, 53, 212);
+}
+#top1{
+    font-size: 2rem
+}
+_____microwars_____
+#micro{
+    width: 90%; 
+}
+#micro video{
+    width: 60%;
+}
+
+
+.Microwars {
+    justify-content: center;
+   
+}
+.Microwars picture img{
+    width: 15%;
+}
+.Microwars picture p{
+
+font-size: 65%;
+    
+}
+
+
+#topju{
+    font-size: 3rem;
+    color: rgb(53, 53, 212);
+}
+.alin nav p{
+font-size: 80%;
+}
+.players img{
+border-radius: 10px;
+}
+.players p{
+    font-size: 100%;
+}
+.mill ol{
+    font-size: 3rem;
+}
+_____-lostsaga___________
+.mill #txtLost{
+    font-size: 50%;
+}
+.PJ1 p{
+    font-size: 50%;
+}
+.PJ1 video{
+width: 40%;
+
+}
+
+.PJ2 p{
+    font-size: 50%;
+}
+.PJ2 video{
+    width: 40%;
+      
+}
+
+
+
+
+_______primeros puestos microwars___
+
+ .TOP1 picture{
+
+    width: 50%;
+}
+.info picture{
+    font-size: 100%;
+}
+    
+    
+    
+.TOP1 picture video{
+       
+        width: 50%;
+    }
+    _______________
+
+    sevencore_
+
+.SevencoreTOP h5{
+    font-size: 10%;
+}
+.SevencoreTOP p{
+    font-size: 60%;
+}
+
+______________________
+.cabeza{
+    justify-content: center;
+    text-align: center;
+     margin: 0.5rem;
+}
+
+.cabecera-menu{
+    margin: 0.9rem;
+    
+    
+}
+.cabecera h1{
+    font-size: 3rem;
+}
+
+}
